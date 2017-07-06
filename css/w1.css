@@ -304,8 +304,8 @@
 
 
     color: rgb(17, 17, 17);
-    font-size: 27px;
-    font-weight: 500;
+    font-size: 24px;
+    font-weight: 400;
 
 
     border: 3px solid rgb(17, 17, 17);
@@ -330,8 +330,8 @@
 
 
     color: rgb(17, 17, 17);
-    font-size: 27px;
-    font-weight: 500;
+    font-size: 24px;
+    font-weight: 400;
 
 
     border: 3px solid rgb(17, 17, 17);
@@ -354,8 +354,8 @@
 
 
     color: rgb(17, 17, 17);
-    font-size: 27px;
-    font-weight: 500;
+    font-size: 24px;
+    font-weight: 400;
 
 
     border: 3px solid rgb(17, 17, 17);
@@ -369,8 +369,8 @@
   border-radius: 20px;
 
     color: rgb(17, 17, 17);
-    font-size: 27px;
-    font-weight: 500;
+    font-size: 24px;
+    font-weight: 400;
 
 
     background: rgb(255, 255, 255);
@@ -388,8 +388,8 @@
 /* QUIZ BACK BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back {
   color: white;
-  font-size: 27px;
-  font-weight: 500;
+  font-size: 24px;
+  font-weight: 400;
   background: gray;
   border: 3px solid gray;
   border-radius: 20px;
