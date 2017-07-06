@@ -207,6 +207,8 @@
   max-height: 600px;
   max-width: 775px;
   overflow-y: auto;
+  top: 4%;
+  left: 6%;
 }
 
 /* ADJUSTING PADDING FOR HEADER */
