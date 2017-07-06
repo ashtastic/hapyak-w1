@@ -231,14 +231,14 @@
 
     background: rgba(249, 195, 51, 1);
 
-  font-weight: 100;
+  font-weight: 500;
 
     color: rgb(17, 17, 17);
     font-size: 27px;
 
   text-align: left;
   width: auto;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 /* QUIZ ANSWER TEXT */
@@ -246,7 +246,7 @@
 
     color: rgb(17, 17, 17);
     font-size: 24px;
-    line-height: 30px;
+    line-height: 36px;
     padding-bottom: 10px;
 
 }
@@ -305,14 +305,14 @@
 
     color: rgb(17, 17, 17);
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
 
 
-    border: 3px solid rgb(17, 17, 17);
+    border: none;
 
   box-shadow: none;
   text-shadow: none;
-  border-radius: 20px;
+  border-radius: 24px;
 }
 
 /*button.btn.btn-large.submit-answers.btn-success.disabled {
@@ -331,14 +331,14 @@
 
     color: rgb(17, 17, 17);
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
 
 
-    border: 3px solid rgb(17, 17, 17);
+    border: none;
 
   box-shadow: none;
   text-shadow: none;
-  border-radius: 20px;
+  border-radius: 24px;
 }
 
 /* SUBMIT BUTTON HOVER */
@@ -355,25 +355,25 @@
 
     color: rgb(17, 17, 17);
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
 
 
-    border: 3px solid rgb(17, 17, 17);
-    border-radius: 20px;
+    border: none;
+    border-radius: 24px;
 
 }
 
 /* CANCEL BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide {
-  border: 3px solid rgb(17, 17, 17);
-  border-radius: 20px;
+  border: none;
+  border-radius: 24px;
 
     color: rgb(17, 17, 17);
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
 
 
-    background: rgb(255, 255, 255);
+    background: rgb(230, 230, 230);
 
   text-shadow: none;
   box-shadow: none;
@@ -389,10 +389,10 @@
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.go-back {
   color: white;
   font-size: 24px;
-  font-weight: 400;
+  font-weight: 500;
   background: gray;
   border: 3px solid gray;
-  border-radius: 20px;
+  border-radius: 24px;
   box-shadow: none;
   text-shadow: none;
 }
