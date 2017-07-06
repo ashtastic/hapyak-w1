@@ -205,6 +205,7 @@
   box-shadow: none;
   overflow: hidden;
   max-height: 600px;
+  max-width: 775px;
   overflow-y: auto;
 }
 
@@ -281,7 +282,8 @@
 
 /* QUIZ REVIEW BOX POSITION */
 .hapyak-annotation-container .popcorn-quiz.hapyak-review-screen > .hapyak-quiz-container, .hapyak-skeleton-annotation-container .popcorn-quiz.hapyak-review-screen > .hapyak-quiz-container {
-  top: 100px;
+  top: 6%;
+  left: 4%;
 }
 
 /* QUESTION ALIGNMENT */
