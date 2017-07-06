@@ -313,7 +313,6 @@
   box-shadow: none;
   text-shadow: none;
   border-radius: 24px;
-  padding-right: 20px;
 }
 
 /*button.btn.btn-large.submit-answers.btn-success.disabled {
@@ -436,7 +435,7 @@ button.new-text-choice.btn.btn-large {
 
 /* QUIZ BUTTON FORMATING */
 .hapyak-player .hapyak-quiz-builder.viewer .btn {
-  margin: -40px 15px 15px 5px;
+  margin: -40px 20px 20px 5px;
 }
 
 .hapyak-player .hapyak-quiz-builder i {
