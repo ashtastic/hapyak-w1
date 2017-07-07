@@ -342,11 +342,11 @@
 }
 
 /* SUBMIT BUTTON HOVER */
-button.btn.btn-large.btn-primary.submit-answers:hover {
+/*button.btn.btn-large.btn-primary.submit-answers:hover {
 
-    color: rgba(17, 17, 17, 0.4);
+    background: rgb(68, 68, 68);
 
-}
+}*/
 /* DONE BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.btn-primary.ok {
 
