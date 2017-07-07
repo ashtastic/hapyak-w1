@@ -274,7 +274,6 @@
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder .answer > pre {
 
     color: rgb(17, 17, 17);
-    overflow: hidden;
 
 }
 
