@@ -307,7 +307,7 @@
     font-weight: 500;
 
 
-    border: 3px solid rgb(17, 17, 17);
+    border: 3px solid rgb(255, 255, 255);
 
   box-shadow: none;
   text-shadow: none;
@@ -333,7 +333,7 @@
     font-weight: 500;
 
 
-    border: 3px solid rgb(17, 17, 17);
+    border: 3px solid rgb(249, 195, 51);
 
   box-shadow: none;
   text-shadow: none;
@@ -357,14 +357,14 @@
     font-weight: 500;
 
 
-    border: 3px solid rgb(17, 17, 17);
+    border: 3px solid rgb(249, 195, 51);
     border-radius: 20px;
 
 }
 
 /* CANCEL BUTTON */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide {
-  border: 3px solid rgb(17, 17, 17);
+  border: 3px solid rgb(230, 230, 230);
   border-radius: 20px;
 
     color: rgb(17, 17, 17);
