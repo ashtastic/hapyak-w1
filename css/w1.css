@@ -261,7 +261,7 @@
   padding-left: 20px;
   padding-right: 20px;
   margin-top: 0px;
-  padding-top: 40px;
+  padding-top: 30px;
   padding-bottom: 20px;
 }
 
@@ -280,7 +280,6 @@
 /* QUIZ REVIEW ANSWER TEXT POSITION */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .summary .answer {
   margin-left: 20px;
-  width: 100%;
 }
 
 /* QUIZ REVIEW BOX POSITION */
