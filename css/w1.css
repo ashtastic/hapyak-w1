@@ -380,7 +380,7 @@
 
 /* CANCEL BUTTON HOVER */
 .popcorn-quiz:not(.hapyak-editing-quiz) button.btn.btn-large.skip.hide:hover {
-  border-color: gray;
+  border-color: rgb(230, 230, 230);
   color: gray;
 }
 
