@@ -274,9 +274,9 @@
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder .answer > pre {
 
     color: rgb(17, 17, 17);
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 36px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
 
 }
 
