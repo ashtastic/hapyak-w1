@@ -274,10 +274,10 @@
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder .answer > pre {
 
     color: rgb(17, 17, 17);
-    font-weight: 500;
+    font-weight: 400;
     font-size: 18px;
     width: 90%;
-    margin-top: -6px;
+    margin-top: 7px;
 
 }
 
