@@ -287,7 +287,7 @@
 
 /* QUIZ REVIEW BOX POSITION */
 .hapyak-annotation-container .popcorn-quiz.hapyak-review-screen > .hapyak-quiz-container, .hapyak-skeleton-annotation-container .popcorn-quiz.hapyak-review-screen > .hapyak-quiz-container {
-  top: 100px;
+  top: 0;
 }
 
 /* QUESTION ALIGNMENT */
