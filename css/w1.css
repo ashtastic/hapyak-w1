@@ -217,6 +217,7 @@
 
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder {
   padding: 0;
+  margin-bottom: 30px;
 }
 
 /* QUIZ HEADER STYLE */
