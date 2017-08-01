@@ -253,7 +253,7 @@
 /* QUIZ THANK YOU MESSAGE TEXT */
 .popcorn-quiz:not(.hapyak-editing-quiz) .hapyak-quiz-builder.viewer .thank-you {
 
-    color: gray;
+    color: rgb(17, 17, 17);
 
   font-family: "Roboto", "Helvetica", sans-serif;
   font-weight: 500;
